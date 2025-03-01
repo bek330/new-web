@@ -7,7 +7,7 @@
   body {
     font-family: 'Poppins', sans-serif;
     background-color: #f5f5f5;
-    color: #333;
+    color: #24255a3f;
     line-height: 1.6;
   }
   
@@ -40,12 +40,12 @@
   }
   
   .nav-links a:hover {
-    color: #f39c12;
+    color: #be8f0d;
   }
   
   .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #3498db, #8e44ad);
+    background: linear-gradient(145deg, #3498db, #8e44ad);
     color: white;
     display: flex;
     flex-direction: column;
@@ -66,7 +66,7 @@
   }
   
   .hero .btn {
-    background-color: #f39c12;
+    background-color: #264655;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -148,7 +148,7 @@
   }
   
   .about-content i {
-    color: #27ae60;
+    color: #211d33;
     margin-right: 10px;
   }
   
@@ -172,7 +172,7 @@
   }
   
   .clr-g{
-    color: #27ae60;
+    color: #4a6f79;
   }
   
   .contact-form h3 {
